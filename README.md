@@ -1,2 +1,5 @@
 # Snappy
-Snapchat spammer
+
+## Getting Started
+
+### Installation
