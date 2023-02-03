@@ -1,5 +1,6 @@
 # Snappy
-![R (1) (2)](https://user-images.githubusercontent.com/109172537/216536226-36c2b8cd-7af9-4dd6-9a58-66477944bd33.png)
+![R (1) (3)](https://user-images.githubusercontent.com/109172537/216536525-5498823d-0d8a-4958-a9b6-9e8c7e891fbc.png)
+
 
 ## Getting Started!
 
