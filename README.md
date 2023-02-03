@@ -1,10 +1,14 @@
 # Snappy
 
-## Getting Started
+## Getting Started!
 
-### Installation
+### Requirements:
 
-How to use:
+PyAutoGui
+```
+pip install pyautogui
+```
+## Installation
 
 Note: Following steps may be unnecessary, depending on monitor size.
 
@@ -21,7 +25,13 @@ Note: Following steps may be unnecessary, depending on monitor size.
 11. Right-click the other file named snappy2.py, click 'Open With', and open it with sublime text
 12. Once in sublime text replace the coordinates, with your coordinates that you've written down
 13. Navigate to 'web.snapchat.com'.
-14. Once at 'web.snapchat.com', press win + r, type 'cmd', click enter, and type the following; `python3 snappy2.py'.
-15. Done!
+14. Once at 'web.snapchat.com', press win + r, type 'cmd', click enter, and type the following; `python3 snappy2.py`.
 
-Press 'ctrl + c' to stop program
+### Press 'ctrl + c' to stop the program
+
+---
+
+### Contact
+
+#### :mailbox: How to reach me: <img src="https://user-images.githubusercontent.com/109172537/209095400-8f9c465d-914b-4303-919e-4f449469b223.png" width="20"> ChezLondo#3468
+
