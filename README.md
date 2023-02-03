@@ -39,4 +39,4 @@ Note: Following steps may be unnecessary, depending on monitor size.
 
 ---
 
-### Warning if you cant stop it, 'ctrl + alt + delete'.
+###  :warning: Warning if you cant stop it, 'ctrl + alt + delete'.  :warning:
