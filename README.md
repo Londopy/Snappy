@@ -3,3 +3,25 @@
 ## Getting Started
 
 ### Installation
+
+How to use:
+
+Note: Following steps may be unnecessary, depending on monitor size.
+
+1. Download the files
+2. Open your files app in windows
+3. Go to downloads
+4. Find these files
+5. Run 'coordinate-finder.py' first, just double click
+6. Put your mouse over the 'circle button', then write down the coordinates
+7. Put your mouse over the 'send to' button. then write down the coordinates
+8. Put your mouse over 'my name', then write down the coordinates
+9. Put your mouse over the 'send' button, then write down the coordinates
+10. Exit out that menu
+11. Right-click the other file named snappy2.py, click 'Open With', and open it with sublime text
+12. Once in sublime text replace the coordinates, with your coordinates that you've written down
+13. Navigate to 'web.snapchat.com'.
+14. Once at 'web.snapchat.com', press win + r, type 'cmd', click enter, and type the following; `python3 snappy2.py'.
+15. Done!
+
+Press 'ctrl + c' to stop program
