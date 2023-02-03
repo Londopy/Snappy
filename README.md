@@ -25,7 +25,7 @@ Note: Following steps may be unnecessary, depending on monitor size.
 11. Right-click the other file named snappy2.py, click 'Open With', and open it with sublime text
 12. Once in sublime text replace the coordinates, with your coordinates that you've written down
 13. Navigate to 'web.snapchat.com'.
-14. Once at 'web.snapchat.com', press win + r, type 'cmd', click enter, and type the following; `python3 snappy2.py`.
+14. Once at 'web.snapchat.com', open cmd: press 'win + r', type 'cmd', click enter, and type the following; `python3 snappy2.py`.
 
 ### Press 'ctrl + c' to stop the program
 
